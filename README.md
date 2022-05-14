@@ -1,1 +1,1 @@
-"# Voting_DApp_private_network"  
+# Voting_DApp_private_network
